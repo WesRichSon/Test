@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Psy_App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Tobacco_products">"Tobacco products \n (cigarettes, chewing tobacco, cigars, etc.)"</string>
+    <string name="Alcoholic_beverages">Alcoholic beverages \n (beer, wine spirits, etc.)</string>
+    <string name="Btn_Yes">Yes</string>
+    <string name="Btn_No">No</string>
+    <string name="a">a.</string>
+    <string name="b">b.</string>
+    <string name="c">c.</string>
+    <string name="d">d.</string>
+    <string name="e">e.</string>
+    <string name="f">f.</string>
+    <string name="g">g.</string>
+    <string name="h">h.</string>
+    <string name="i">i.</string>
+    <string name="j">j.</string>
+</resources>
